@@ -1,0 +1,7 @@
+C:\Users\90536\source\repos\ÖDEV\bin\Debug\ÖDEV.exe.config
+C:\Users\90536\source\repos\ÖDEV\bin\Debug\ÖDEV.exe
+C:\Users\90536\source\repos\ÖDEV\bin\Debug\ÖDEV.pdb
+C:\Users\90536\source\repos\ÖDEV\obj\Debug\ÖDEV.csprojAssemblyReference.cache
+C:\Users\90536\source\repos\ÖDEV\obj\Debug\ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\90536\source\repos\ÖDEV\obj\Debug\ÖDEV.exe
+C:\Users\90536\source\repos\ÖDEV\obj\Debug\ÖDEV.pdb
