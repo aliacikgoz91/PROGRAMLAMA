@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dönem2Ödev1/1.0.0": {
+        "runtime": {
+          "Dönem2Ödev1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dönem2Ödev1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

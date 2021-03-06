@@ -1,0 +1,26 @@
+C:\Users\90536\source\repos\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.exe
+C:\Users\90536\source\repos\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.deps.json
+C:\Users\90536\source\repos\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.runtimeconfig.json
+C:\Users\90536\source\repos\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.runtimeconfig.dev.json
+C:\Users\90536\source\repos\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.dll
+C:\Users\90536\source\repos\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.pdb
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.csprojAssemblyReference.cache
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.AssemblyInfoInputs.cache
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.AssemblyInfo.cs
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.dll
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.pdb
+C:\Users\90536\source\repos\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.genruntimeconfig.cache
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.exe
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.deps.json
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.runtimeconfig.json
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.runtimeconfig.dev.json
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.dll
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\bin\Debug\netcoreapp3.1\Dönem2Ödev1.pdb
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.csprojAssemblyReference.cache
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.AssemblyInfoInputs.cache
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.AssemblyInfo.cs
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.dll
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.pdb
+C:\Users\90536\Desktop\GAZİ ÜNİVERSİTESİ DERS\2. Dönem\(Ders6) Nesne Tabanlı Programlama [Çarşamba 11.40 - 13.10]\Dönem2Ödev1\obj\Debug\netcoreapp3.1\Dönem2Ödev1.genruntimeconfig.cache
