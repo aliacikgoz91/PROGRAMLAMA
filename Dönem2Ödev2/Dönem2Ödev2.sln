@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dönem2Ödev2", "Dönem2Ödev2.csproj", "{3626FFE5-35AC-4C38-92CE-436A9B8FAFDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3626FFE5-35AC-4C38-92CE-436A9B8FAFDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3626FFE5-35AC-4C38-92CE-436A9B8FAFDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3626FFE5-35AC-4C38-92CE-436A9B8FAFDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3626FFE5-35AC-4C38-92CE-436A9B8FAFDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9977AAAC-0C70-4BB8-A22D-60B603C327FA}
+	EndGlobalSection
+EndGlobal
