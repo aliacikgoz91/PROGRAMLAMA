@@ -1,0 +1,3 @@
+C:\Users\aliac\Desktop\203801061 - Alihan Açıkgöz NTP ÖDEV 2\obj\Debug\203801061 - Alihan Açıkgöz NTP ÖDEV 2 KODLAR.csproj.AssemblyReference.cache
+C:\Users\aliac\Desktop\203801061 - Alihan Açıkgöz NTP ÖDEV 2\obj\Debug\WindowsFormsApp1.exe
+C:\Users\aliac\Desktop\203801061 - Alihan Açıkgöz NTP ÖDEV 2\obj\Debug\WindowsFormsApp1.pdb
