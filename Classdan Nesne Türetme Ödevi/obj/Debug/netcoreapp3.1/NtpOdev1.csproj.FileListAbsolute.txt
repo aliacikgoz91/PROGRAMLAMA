@@ -1,0 +1,14 @@
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\bin\Debug\netcoreapp3.1\NtpOdev1.exe
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\bin\Debug\netcoreapp3.1\NtpOdev1.deps.json
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\bin\Debug\netcoreapp3.1\NtpOdev1.runtimeconfig.json
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\bin\Debug\netcoreapp3.1\NtpOdev1.runtimeconfig.dev.json
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\bin\Debug\netcoreapp3.1\NtpOdev1.dll
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\bin\Debug\netcoreapp3.1\NtpOdev1.pdb
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.csproj.AssemblyReference.cache
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.AssemblyInfoInputs.cache
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.AssemblyInfo.cs
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.csproj.CoreCompileInputs.cache
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.dll
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.pdb
+C:\Users\aliac\source\repos\NtpOdev1\NtpOdev1\obj\Debug\netcoreapp3.1\NtpOdev1.genruntimeconfig.cache

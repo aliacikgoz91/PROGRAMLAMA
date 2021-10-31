@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NtpOdev1/1.0.0": {
+        "runtime": {
+          "NtpOdev1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NtpOdev1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
