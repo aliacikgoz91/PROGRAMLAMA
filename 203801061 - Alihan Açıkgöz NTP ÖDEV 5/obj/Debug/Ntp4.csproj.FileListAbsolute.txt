@@ -1,0 +1,11 @@
+C:\Users\aliac\source\repos\Ntp4\Ntp4\bin\Debug\Ntp4.exe.config
+C:\Users\aliac\source\repos\Ntp4\Ntp4\bin\Debug\Ntp4.exe
+C:\Users\aliac\source\repos\Ntp4\Ntp4\bin\Debug\Ntp4.pdb
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.csproj.AssemblyReference.cache
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.Form1.resources
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.Properties.Resources.resources
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.csproj.GenerateResource.cache
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.csproj.CoreCompileInputs.cache
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.exe
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.pdb
+C:\Users\aliac\source\repos\Ntp4\Ntp4\obj\Debug\Ntp4.Form2.resources
